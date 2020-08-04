@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+### `Live Deployed App`
+[Amazon Clone](https://clone-63b90.web.app/) <br/>
+Note: This Web App Is Under Maintenance You Might Face Difficulties While Seeing It.
 
 ### `yarn start`
 
