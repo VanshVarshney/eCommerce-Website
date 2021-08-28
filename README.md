@@ -1,7 +1,9 @@
-### `Live Deployed App`
-[Amazon Clone](https://clone-74fb5.web.app/) ------- Production Build V1 </br>
+# V-Cart Ecommerce Web App
 
-Note: This Web App Is Under Maintenance You Might Face Difficulties While Seeing It. </br>
-Note: Cart Feautre is Under Maintenance For Payment Integrations. </br>
-Note: This eCommerce Web-APP also combinning ReactJs(frontend) with Django(for Backend) . so V2 will be complete web-app for Real Life Usage.
+- This e-Commerce web app, With Lots of Features Separate UI for Customer & Admin, With Login/Signup.
+- Customer UI Includes Functionality Like Cart, Order, Account, Tracking, Interactive Product Page, Payment Gateway and Many More.
+- Admin Dashboard UI Includes Order Processing, Adding New Products, and Many More Functionality.
 
+# Live Deployed App Link
+
+- [www.v-cart.com](https://vansh-cart.herokuapp.com/)
